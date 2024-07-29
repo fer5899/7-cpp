@@ -5,7 +5,7 @@ NAME = ex00.out
 
 # Compiler and compilation flags
 CC = g++
-CFLAGS = -Wall -Wextra -Werror #-std=c++98
+CFLAGS = -Wall -Wextra -Werror -std=c++98
 
 # Directory structure
 OBJ_DIR = obj/
